@@ -1,0 +1,25 @@
+{
+  "name": "grunt-demo",
+  "version": "1.0.0",
+  "description": "grunt-demo",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-contrib-less": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijiamei/grunt-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijiamei/grunt-demo/issues"
+  },
+  "homepage": "https://github.com/lijiamei/grunt-demo#readme"
+}
